@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Want You Right Now
+
+This log tracks the cryptographic history and versioning for the song **Want You Right Now** (want-you-right-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:27:15.773232 | `v1` | `d333e56bb3772961bc40dab5d7d1dda8b85c45473cc5fe2beb838589d7e9fb3d` | `adc82bb003a6aebcee158e90f5aabcd98a880f56127364c2831e09bee0c482a0` | `2026-05-26_want-you-right-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
