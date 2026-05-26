@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/want-you-right-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Want You Right Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/want-you-right-now/) |
+| **Get License** | [License this song: Want You Right Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/want-you-right-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I don't want to wait until the morning light
+> I just want to hold you in this quiet country night
+> There's a fire burning every time you look my way
+> I need you in my arms, I need you here to stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
